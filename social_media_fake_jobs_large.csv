@@ -1,0 +1,501 @@
+job_title,company_name,job_description_length,skills_required,salary_range,job_post_age,verified_recruiter,company_website_available,job_location,fake_job
+Marketing Specialist,Tesla,814,15,147114,6,0,1,Remote,1
+Content Writer,Facebook,509,9,102050,23,0,1,Remote,0
+Marketing Specialist,Facebook,228,3,132499,60,0,1,Hybrid,0
+Blockchain Developer,Freelance,144,3,165968,56,0,1,On-site,1
+Content Writer,Freelance,116,3,91888,24,1,0,Remote,0
+Content Writer,Amazon,395,14,72623,35,0,1,Remote,1
+Online Survey Agent,Amazon,938,5,143205,39,1,0,On-site,1
+Blockchain Developer,Facebook,385,3,16999,60,0,0,Remote,1
+Blockchain Developer,Freelance,437,2,145018,83,0,0,Remote,1
+Online Survey Agent,Tesla,944,7,81214,89,1,0,On-site,0
+Content Writer,Unknown LLC,134,7,12808,72,1,1,Hybrid,0
+Blockchain Developer,Facebook,330,6,124306,30,0,1,Hybrid,1
+Graphic Designer,Tesla,226,6,149174,71,1,0,Remote,1
+Online Survey Agent,Freelance,894,1,168059,84,0,0,Remote,1
+Software Engineer,Tesla,704,6,86231,72,1,1,On-site,1
+Blockchain Developer,Amazon,258,8,12993,2,1,0,On-site,1
+Content Writer,Amazon,61,10,117898,79,0,1,On-site,1
+Software Engineer,Tesla,923,8,60613,51,0,1,Hybrid,1
+Software Engineer,Tesla,866,1,57948,28,1,0,On-site,0
+Online Survey Agent,Tesla,827,11,125393,21,0,1,On-site,0
+Software Engineer,Google,221,9,78840,28,0,0,Hybrid,0
+Blockchain Developer,Freelance,631,14,56459,17,1,0,On-site,0
+Data Entry,Amazon,456,10,139880,22,0,1,On-site,0
+HR Manager,Tesla,975,6,138930,28,1,1,Hybrid,0
+Blockchain Developer,Amazon,955,8,170007,84,0,0,On-site,1
+HR Manager,Tesla,784,11,48630,75,1,1,Remote,1
+Blockchain Developer,Unknown LLC,459,8,55611,89,1,1,Remote,0
+Online Survey Agent,Amazon,327,13,133205,13,1,1,On-site,0
+Online Survey Agent,Unknown LLC,736,13,21014,78,1,1,Hybrid,0
+Software Engineer,Tesla,282,14,86939,14,1,0,Remote,1
+Online Survey Agent,Google,442,11,5914,30,0,1,Remote,1
+Software Engineer,Tesla,476,0,131608,47,1,1,Remote,1
+Online Survey Agent,Facebook,426,11,196139,69,0,0,Hybrid,0
+Marketing Specialist,Facebook,272,9,33759,16,0,1,Hybrid,0
+Content Writer,Tesla,606,13,16030,3,0,0,Hybrid,0
+Blockchain Developer,Tesla,227,8,182037,74,0,0,Hybrid,1
+Online Survey Agent,Unknown LLC,273,11,43523,48,1,1,Remote,1
+HR Manager,Google,348,11,1425,47,1,0,Hybrid,1
+Marketing Specialist,Google,388,3,147342,36,0,0,Remote,1
+Marketing Specialist,Facebook,240,11,103144,48,1,0,Remote,1
+Data Entry,Unknown LLC,460,13,14290,40,0,1,Hybrid,0
+HR Manager,Google,217,11,50214,28,0,0,Remote,1
+HR Manager,Tesla,109,6,143563,87,1,1,On-site,0
+Online Survey Agent,Unknown LLC,858,6,122543,17,0,1,On-site,0
+Blockchain Developer,Tesla,770,5,98140,64,1,1,Hybrid,0
+Graphic Designer,Facebook,125,11,52662,29,1,1,On-site,1
+Content Writer,Unknown LLC,746,2,139044,69,0,0,Remote,1
+Software Engineer,Amazon,284,4,156241,79,0,0,Hybrid,1
+Content Writer,Google,445,4,158151,5,0,0,Hybrid,1
+Online Survey Agent,StartupX,258,4,80605,12,0,0,Remote,1
+HR Manager,Freelance,522,0,82118,65,0,0,On-site,1
+Online Survey Agent,Facebook,754,7,164293,81,0,0,On-site,1
+Software Engineer,Freelance,301,3,12988,69,1,1,On-site,1
+HR Manager,Amazon,344,0,13895,51,1,0,On-site,0
+Marketing Specialist,StartupX,740,5,32839,90,1,1,Hybrid,1
+HR Manager,Google,666,9,86355,11,1,0,Hybrid,1
+Marketing Specialist,Tesla,53,7,187594,48,1,1,On-site,1
+Online Survey Agent,Facebook,897,8,69325,51,0,1,Remote,1
+Graphic Designer,Facebook,100,5,146194,55,0,0,Remote,0
+Graphic Designer,Freelance,352,15,197086,51,0,0,Remote,1
+Data Entry,Amazon,46,8,124975,55,1,1,Remote,1
+Marketing Specialist,Unknown LLC,380,15,53700,35,0,0,On-site,1
+Blockchain Developer,Facebook,934,8,126261,39,1,1,Hybrid,0
+Marketing Specialist,Facebook,79,6,66883,70,1,0,Hybrid,0
+Blockchain Developer,Facebook,135,9,67105,14,1,0,On-site,0
+Online Survey Agent,Tesla,273,9,98710,89,1,0,On-site,1
+Content Writer,Facebook,516,12,26590,6,1,1,On-site,1
+Marketing Specialist,Tesla,57,14,99322,15,1,0,Remote,0
+Data Entry,Tesla,351,10,110640,24,1,1,Hybrid,0
+Data Entry,Tesla,308,8,88764,12,1,0,Remote,1
+Data Entry,Freelance,984,15,88306,73,1,0,Hybrid,1
+Data Entry,Amazon,413,3,682,76,1,0,On-site,1
+Content Writer,Amazon,572,8,173404,46,1,0,Remote,0
+Online Survey Agent,Google,291,3,12761,71,0,0,On-site,0
+Blockchain Developer,Unknown LLC,856,5,111831,28,1,1,On-site,1
+HR Manager,Facebook,967,3,119439,31,0,1,On-site,0
+Software Engineer,Amazon,254,0,153512,63,1,0,Hybrid,0
+Online Survey Agent,Freelance,432,6,84242,21,0,1,Hybrid,1
+Data Entry,Unknown LLC,742,15,69027,88,0,0,On-site,1
+Software Engineer,StartupX,146,11,58228,58,1,1,Remote,0
+Data Entry,Amazon,523,9,91549,30,1,0,On-site,0
+Online Survey Agent,Facebook,731,8,109245,60,0,1,Hybrid,0
+Blockchain Developer,Amazon,643,5,148665,84,0,0,Remote,0
+Online Survey Agent,Freelance,779,1,112829,89,0,1,On-site,0
+Online Survey Agent,StartupX,51,13,108772,73,0,1,On-site,1
+Blockchain Developer,Tesla,173,15,113642,27,1,0,Remote,1
+Graphic Designer,Google,450,11,97426,19,0,1,Hybrid,0
+Blockchain Developer,Unknown LLC,140,12,28900,83,1,0,On-site,1
+Graphic Designer,Facebook,555,15,166676,32,0,1,Hybrid,0
+Data Entry,Amazon,901,9,57707,33,0,1,Hybrid,0
+Data Entry,Freelance,467,3,66636,61,0,1,On-site,1
+Data Entry,Freelance,884,6,139453,55,1,0,Remote,1
+Data Entry,Facebook,509,0,1904,18,0,1,Remote,0
+Content Writer,Unknown LLC,661,2,126052,69,0,0,Remote,0
+Software Engineer,Google,209,8,110922,63,1,1,Hybrid,0
+Blockchain Developer,Facebook,175,8,83964,60,0,1,Hybrid,1
+Marketing Specialist,Amazon,926,15,46795,78,1,0,Hybrid,1
+Software Engineer,Facebook,976,6,9598,13,0,0,On-site,1
+Blockchain Developer,Unknown LLC,414,0,22578,43,1,1,On-site,1
+Online Survey Agent,Freelance,484,1,141900,85,0,0,Remote,0
+Marketing Specialist,Tesla,95,3,36533,26,1,0,Hybrid,0
+Graphic Designer,Facebook,84,0,70214,11,1,1,Remote,0
+Online Survey Agent,Amazon,78,7,159025,72,1,1,Hybrid,0
+Software Engineer,Freelance,852,8,178034,11,1,0,Hybrid,1
+Blockchain Developer,Unknown LLC,102,8,80447,17,0,1,Remote,0
+Graphic Designer,Amazon,570,5,160178,20,1,1,Hybrid,0
+Online Survey Agent,Freelance,375,8,171618,89,1,1,Hybrid,1
+Online Survey Agent,Google,810,7,92066,14,1,1,Hybrid,0
+Software Engineer,Amazon,119,14,12800,66,1,1,Remote,0
+Blockchain Developer,StartupX,356,1,74526,52,1,0,On-site,1
+Marketing Specialist,StartupX,393,15,140782,8,1,0,Hybrid,1
+Graphic Designer,Freelance,698,5,82736,42,0,1,Remote,0
+HR Manager,StartupX,140,12,91919,11,1,0,Hybrid,1
+Graphic Designer,Unknown LLC,845,10,51067,26,1,1,Remote,0
+Marketing Specialist,Unknown LLC,331,6,159723,14,1,1,Remote,0
+Graphic Designer,StartupX,396,11,96758,87,1,0,Hybrid,0
+Online Survey Agent,Amazon,809,13,93767,58,1,0,On-site,0
+Graphic Designer,Unknown LLC,578,13,52649,11,1,0,On-site,0
+HR Manager,Freelance,172,1,117434,35,1,0,Remote,1
+Graphic Designer,Google,129,13,132614,45,0,1,Remote,1
+Content Writer,StartupX,388,0,86543,7,1,0,Hybrid,0
+Data Entry,Freelance,891,0,3179,79,1,1,Remote,1
+Blockchain Developer,Google,42,4,51853,87,0,1,Hybrid,1
+HR Manager,Tesla,937,14,50491,35,1,0,On-site,0
+Blockchain Developer,Google,760,6,163023,7,1,0,On-site,0
+Software Engineer,Amazon,567,6,153595,13,1,1,Hybrid,1
+Data Entry,Facebook,862,6,17758,85,0,1,On-site,0
+Data Entry,Freelance,557,7,86912,36,0,0,On-site,1
+Marketing Specialist,Tesla,88,5,139642,54,0,0,On-site,1
+Software Engineer,Facebook,570,11,168241,48,0,0,On-site,0
+Graphic Designer,Google,171,8,8338,71,1,1,On-site,1
+HR Manager,Google,325,11,80737,7,1,0,On-site,1
+Graphic Designer,StartupX,795,7,165874,79,0,1,Hybrid,1
+HR Manager,StartupX,342,8,150257,8,1,0,On-site,1
+HR Manager,Google,288,10,115995,51,1,1,On-site,1
+Content Writer,StartupX,67,9,124234,88,1,1,Remote,1
+Marketing Specialist,Amazon,466,13,39621,88,0,1,On-site,1
+Blockchain Developer,Google,740,1,131933,66,0,1,On-site,1
+Data Entry,Facebook,83,12,40218,40,1,0,Hybrid,0
+Data Entry,StartupX,494,12,99436,16,1,1,Hybrid,0
+Software Engineer,Facebook,783,11,154995,65,1,0,Remote,1
+Software Engineer,Freelance,767,15,52665,83,1,1,Remote,1
+Software Engineer,Tesla,393,8,124008,38,0,1,On-site,0
+Online Survey Agent,Tesla,845,4,53867,75,0,0,On-site,0
+HR Manager,Facebook,92,14,23606,51,0,0,Remote,0
+Content Writer,Amazon,779,1,147259,40,1,1,On-site,0
+Blockchain Developer,Unknown LLC,74,9,150638,45,1,0,Hybrid,1
+Marketing Specialist,Unknown LLC,347,15,73341,42,0,0,Hybrid,0
+HR Manager,Facebook,481,1,180812,29,1,0,Remote,0
+Online Survey Agent,Facebook,460,14,186262,44,1,0,Hybrid,0
+Data Entry,StartupX,899,15,112184,47,1,0,On-site,1
+Blockchain Developer,Facebook,335,12,121006,27,0,1,Hybrid,1
+Graphic Designer,Tesla,485,9,41142,75,1,1,Hybrid,1
+Blockchain Developer,Tesla,801,14,58436,10,0,1,Hybrid,0
+Marketing Specialist,StartupX,999,0,189200,66,1,0,Remote,1
+Graphic Designer,Facebook,991,0,35771,44,1,0,Remote,0
+Data Entry,Amazon,568,14,58056,62,0,1,Hybrid,0
+Data Entry,Tesla,447,15,47021,59,1,0,Hybrid,0
+Online Survey Agent,StartupX,253,2,164804,71,0,1,On-site,1
+Content Writer,Freelance,299,8,128295,61,0,1,Remote,0
+HR Manager,StartupX,641,0,151450,32,1,1,Remote,0
+Online Survey Agent,Unknown LLC,196,15,12458,34,1,0,Remote,1
+Content Writer,StartupX,409,12,25800,28,0,0,Remote,0
+Content Writer,StartupX,783,8,44159,14,1,1,Hybrid,1
+Data Entry,StartupX,985,10,32759,72,0,0,On-site,0
+Content Writer,Tesla,912,11,72619,32,1,1,On-site,0
+Software Engineer,Tesla,34,7,68387,29,1,1,Hybrid,0
+Online Survey Agent,Freelance,517,5,196421,74,0,0,Remote,1
+HR Manager,StartupX,583,14,100720,65,0,0,Hybrid,1
+HR Manager,Freelance,153,4,63547,89,1,1,Remote,1
+Blockchain Developer,StartupX,716,3,82328,42,1,0,Remote,1
+Online Survey Agent,Tesla,49,0,199588,14,1,0,Hybrid,0
+Data Entry,Freelance,670,12,87122,35,1,1,Hybrid,1
+Graphic Designer,Freelance,550,10,40920,75,1,0,Hybrid,0
+HR Manager,Google,917,4,148745,29,1,0,On-site,0
+Online Survey Agent,Amazon,494,7,184269,44,1,1,On-site,0
+Graphic Designer,StartupX,641,13,145465,11,1,1,On-site,0
+Online Survey Agent,Freelance,987,5,123483,31,1,0,Hybrid,1
+Software Engineer,StartupX,172,11,64536,17,0,0,Remote,1
+HR Manager,StartupX,819,5,171294,46,1,1,On-site,0
+Graphic Designer,Freelance,405,2,42714,12,0,1,Remote,0
+Online Survey Agent,Google,887,5,186861,14,1,0,On-site,1
+Graphic Designer,Freelance,721,3,99564,50,0,0,On-site,0
+Marketing Specialist,Unknown LLC,251,9,102696,41,0,1,On-site,0
+Online Survey Agent,Facebook,376,10,24825,9,0,1,Hybrid,1
+Data Entry,Freelance,239,15,5895,72,0,0,On-site,1
+Blockchain Developer,Unknown LLC,571,9,33154,75,0,1,On-site,0
+Data Entry,StartupX,984,2,147468,84,1,0,On-site,0
+Graphic Designer,Google,433,1,178575,17,0,1,Remote,1
+Marketing Specialist,Facebook,638,8,154488,6,0,1,Remote,1
+Content Writer,Facebook,47,3,4224,87,1,1,On-site,1
+Online Survey Agent,Facebook,46,15,34105,87,1,0,Hybrid,1
+Marketing Specialist,StartupX,373,10,107114,57,0,1,Hybrid,0
+Graphic Designer,Freelance,473,15,195399,48,1,0,Hybrid,1
+HR Manager,StartupX,43,13,177227,75,0,1,Remote,1
+Graphic Designer,Amazon,354,11,26995,63,1,1,Hybrid,0
+Data Entry,Facebook,721,5,65663,66,0,0,Hybrid,1
+Graphic Designer,Amazon,617,4,61317,87,1,0,Hybrid,0
+Online Survey Agent,Freelance,344,11,146959,46,1,0,Remote,0
+HR Manager,Amazon,920,14,53628,33,1,1,Remote,0
+Software Engineer,Amazon,998,3,62044,51,1,1,Hybrid,0
+Online Survey Agent,Tesla,948,2,28409,90,1,0,Remote,1
+Content Writer,Amazon,362,1,128166,23,1,0,Hybrid,0
+Content Writer,Facebook,439,5,43527,61,0,0,Remote,1
+Content Writer,Google,842,14,108687,34,1,1,Hybrid,1
+Blockchain Developer,Unknown LLC,868,3,96641,20,0,0,Remote,0
+Graphic Designer,Tesla,491,1,52521,75,0,0,On-site,1
+Online Survey Agent,Facebook,743,5,26710,32,0,1,Remote,1
+HR Manager,StartupX,963,6,118639,74,1,0,Remote,0
+Graphic Designer,Tesla,798,8,188114,85,1,0,Remote,1
+Data Entry,StartupX,157,1,192921,40,0,0,Remote,1
+Content Writer,Google,955,14,52338,89,1,0,Hybrid,0
+Software Engineer,Unknown LLC,43,9,102595,86,0,0,On-site,0
+Content Writer,Google,297,7,175092,74,0,1,Hybrid,0
+Content Writer,Google,120,4,100475,88,1,0,On-site,0
+Marketing Specialist,Freelance,670,5,118550,20,0,1,Hybrid,1
+Blockchain Developer,Facebook,949,11,112220,16,1,0,On-site,1
+Graphic Designer,Unknown LLC,93,4,127675,66,1,1,Remote,0
+Data Entry,Unknown LLC,830,12,93546,59,1,0,Remote,1
+HR Manager,Facebook,120,10,188735,20,0,0,Remote,0
+HR Manager,Facebook,486,8,26034,69,0,1,Remote,1
+Blockchain Developer,Google,481,2,8901,20,1,1,Remote,0
+Graphic Designer,Freelance,500,6,166323,10,0,1,On-site,0
+Graphic Designer,Facebook,874,7,64238,77,0,0,Hybrid,1
+HR Manager,Amazon,922,13,119116,6,0,0,Hybrid,0
+Graphic Designer,Unknown LLC,848,10,1119,68,1,1,Remote,0
+Graphic Designer,Google,23,15,196983,58,1,1,On-site,0
+Graphic Designer,Google,785,12,59995,17,0,1,Remote,0
+Marketing Specialist,Google,607,8,188042,50,1,1,Hybrid,0
+HR Manager,Freelance,508,15,161508,18,0,0,On-site,1
+Marketing Specialist,Google,802,10,137925,7,1,1,Hybrid,1
+Graphic Designer,StartupX,164,11,168992,64,1,1,Hybrid,1
+Content Writer,Google,748,13,58007,65,0,1,Hybrid,0
+Online Survey Agent,Tesla,949,15,99237,48,0,0,Remote,0
+Online Survey Agent,Amazon,898,1,64086,7,1,1,On-site,0
+Graphic Designer,Tesla,834,1,187854,61,1,0,Hybrid,1
+Data Entry,Facebook,22,2,167685,88,0,0,On-site,1
+Software Engineer,StartupX,287,1,127598,42,0,0,On-site,1
+Online Survey Agent,Google,101,7,82026,12,1,0,Hybrid,0
+Graphic Designer,Google,909,3,116074,72,0,1,On-site,1
+Content Writer,Tesla,116,8,125476,37,1,0,On-site,0
+Graphic Designer,Amazon,198,3,22851,23,0,1,Hybrid,1
+Online Survey Agent,Freelance,589,15,164165,19,1,0,Hybrid,0
+Online Survey Agent,Tesla,264,0,49682,44,0,1,Hybrid,1
+Data Entry,StartupX,927,6,91965,75,1,1,Hybrid,0
+Software Engineer,Unknown LLC,475,6,132910,52,0,1,On-site,1
+Content Writer,Freelance,519,7,46476,70,0,0,Remote,0
+Blockchain Developer,Facebook,837,0,63440,90,1,0,Remote,0
+Online Survey Agent,Amazon,632,2,116882,29,0,0,Remote,1
+Graphic Designer,StartupX,812,3,120140,72,0,0,Remote,1
+Online Survey Agent,Tesla,209,2,177257,46,1,1,Remote,1
+HR Manager,Tesla,920,5,94135,8,0,1,Hybrid,0
+Blockchain Developer,Unknown LLC,302,6,90866,16,0,0,Hybrid,0
+HR Manager,Facebook,506,0,181669,74,0,0,Hybrid,0
+Content Writer,StartupX,666,2,136505,79,0,0,Hybrid,0
+Data Entry,Google,54,11,145380,54,0,1,Hybrid,0
+Marketing Specialist,Facebook,924,6,72131,57,0,1,Remote,1
+Marketing Specialist,Tesla,949,15,191653,65,0,0,Hybrid,1
+Software Engineer,Facebook,54,5,14309,4,1,0,Hybrid,1
+Online Survey Agent,Freelance,978,4,86605,64,0,0,On-site,0
+Content Writer,Amazon,62,7,106971,44,0,1,On-site,1
+Blockchain Developer,Unknown LLC,885,15,176946,31,1,1,Remote,1
+Online Survey Agent,Amazon,60,11,57158,4,0,0,Hybrid,0
+Data Entry,Amazon,754,4,83745,19,1,0,On-site,0
+Graphic Designer,Unknown LLC,178,1,94874,26,0,0,Hybrid,1
+Content Writer,Unknown LLC,811,7,108481,21,0,0,On-site,0
+Data Entry,Tesla,354,11,52632,83,1,1,Hybrid,0
+Blockchain Developer,Facebook,916,2,153423,54,1,1,Hybrid,0
+Blockchain Developer,Freelance,286,0,1766,7,0,1,Remote,0
+Data Entry,Facebook,876,10,78683,54,0,0,Remote,1
+Data Entry,Freelance,296,15,137292,68,1,0,Remote,1
+Content Writer,StartupX,888,12,163826,58,0,0,On-site,0
+Graphic Designer,Tesla,482,6,135931,6,0,0,On-site,1
+Online Survey Agent,Google,950,6,93883,82,1,1,Hybrid,1
+Data Entry,Facebook,783,11,127190,43,1,1,Hybrid,0
+HR Manager,StartupX,749,14,88874,54,0,0,Hybrid,0
+Graphic Designer,Unknown LLC,259,11,84832,10,1,1,On-site,1
+Content Writer,Facebook,840,11,115301,43,0,0,Hybrid,0
+HR Manager,Facebook,417,14,81110,72,1,1,Hybrid,0
+Marketing Specialist,Amazon,378,8,64840,19,1,0,Hybrid,1
+Content Writer,Facebook,450,3,172958,3,0,1,On-site,1
+Marketing Specialist,Unknown LLC,57,12,138012,67,1,0,Remote,1
+Software Engineer,StartupX,370,1,56410,27,1,1,Hybrid,1
+Online Survey Agent,Unknown LLC,930,6,102781,24,1,1,Remote,0
+Data Entry,Tesla,474,7,70523,70,1,0,Remote,0
+Online Survey Agent,Facebook,684,6,27063,14,0,1,Remote,0
+Blockchain Developer,Facebook,189,7,112590,68,1,0,On-site,1
+Online Survey Agent,Tesla,825,7,142205,33,0,0,Remote,1
+Content Writer,Facebook,498,4,192757,40,1,1,Remote,0
+Online Survey Agent,StartupX,175,4,96230,60,0,0,Remote,0
+Graphic Designer,Freelance,26,1,77344,71,0,1,Hybrid,1
+Content Writer,Freelance,249,15,16760,65,0,0,Remote,0
+Blockchain Developer,Amazon,183,10,117195,55,1,0,Remote,0
+Content Writer,Unknown LLC,762,3,112768,85,1,0,On-site,1
+Data Entry,Freelance,247,12,113159,51,0,1,Hybrid,0
+Graphic Designer,Tesla,594,8,65130,46,1,1,On-site,0
+HR Manager,StartupX,556,6,115472,80,0,1,Hybrid,0
+HR Manager,Freelance,967,13,177026,35,0,0,Remote,0
+Data Entry,Google,694,1,64005,67,1,1,Hybrid,1
+Marketing Specialist,Facebook,571,5,161092,66,0,1,On-site,0
+HR Manager,Unknown LLC,173,11,127775,86,0,1,On-site,0
+HR Manager,Tesla,64,8,190708,80,0,0,Hybrid,1
+Content Writer,StartupX,468,2,84848,38,0,1,Remote,1
+Marketing Specialist,Tesla,181,4,107716,80,0,0,On-site,0
+Online Survey Agent,StartupX,591,3,150351,61,1,1,Remote,0
+Online Survey Agent,Freelance,212,3,7953,58,1,0,On-site,0
+HR Manager,StartupX,795,4,53252,3,0,0,Remote,1
+Graphic Designer,Google,32,15,93258,80,1,1,Hybrid,1
+Marketing Specialist,Tesla,690,15,16698,60,1,0,Remote,1
+Content Writer,Freelance,613,9,50201,34,1,1,On-site,1
+Software Engineer,Google,574,1,143208,54,0,1,On-site,1
+Online Survey Agent,Unknown LLC,950,10,108409,5,1,1,Hybrid,0
+Marketing Specialist,Freelance,755,4,53891,86,0,0,Hybrid,1
+Blockchain Developer,Amazon,463,6,163524,76,0,1,Hybrid,1
+HR Manager,StartupX,111,4,142950,32,0,1,On-site,0
+Online Survey Agent,Unknown LLC,227,11,80091,58,0,1,Remote,0
+Online Survey Agent,Facebook,136,2,55924,29,0,0,Hybrid,1
+Content Writer,Facebook,503,1,151252,32,1,0,Hybrid,0
+Online Survey Agent,Tesla,714,5,95941,44,1,1,Remote,1
+Marketing Specialist,Tesla,723,1,101696,48,1,1,Hybrid,0
+Data Entry,Unknown LLC,627,13,181113,5,1,0,Hybrid,0
+Software Engineer,Google,483,3,111748,87,1,0,On-site,0
+Content Writer,Amazon,63,8,64013,75,1,0,Hybrid,1
+Data Entry,Freelance,371,4,111200,80,0,0,On-site,1
+Marketing Specialist,Tesla,582,9,78884,67,0,0,Hybrid,1
+Blockchain Developer,StartupX,538,0,157024,64,0,1,Remote,0
+Software Engineer,Unknown LLC,741,9,35391,34,1,0,Hybrid,1
+Content Writer,Google,966,7,166481,19,1,0,Remote,1
+Blockchain Developer,Unknown LLC,396,5,183308,44,0,1,On-site,1
+Online Survey Agent,Tesla,702,10,82865,63,1,1,Hybrid,0
+Blockchain Developer,Freelance,507,4,145025,62,0,1,Hybrid,1
+HR Manager,Amazon,31,11,165684,41,1,1,Remote,0
+HR Manager,Google,151,3,142964,32,0,0,Hybrid,1
+HR Manager,Unknown LLC,462,3,31063,26,0,0,Remote,1
+Software Engineer,Amazon,844,12,16348,41,0,0,Remote,0
+Blockchain Developer,StartupX,783,6,165814,37,0,0,Hybrid,1
+Content Writer,Freelance,265,9,121934,39,1,1,Remote,1
+Marketing Specialist,Freelance,947,14,132271,82,0,1,On-site,1
+Content Writer,Amazon,982,15,36904,17,1,1,Hybrid,1
+Data Entry,Google,850,13,59432,35,1,0,On-site,0
+Online Survey Agent,StartupX,344,6,1032,1,0,1,Remote,0
+Content Writer,Freelance,998,6,103171,39,0,0,Hybrid,0
+Content Writer,Freelance,193,0,78758,3,1,1,Remote,1
+Blockchain Developer,Tesla,108,11,143525,26,1,0,On-site,0
+Blockchain Developer,Unknown LLC,171,4,103188,77,1,0,On-site,1
+Online Survey Agent,Amazon,395,11,37030,33,0,1,Remote,1
+Online Survey Agent,Facebook,471,10,102336,56,1,0,Remote,1
+Content Writer,Facebook,579,3,106404,11,0,1,Remote,1
+Marketing Specialist,Unknown LLC,729,5,153845,39,1,0,Hybrid,1
+HR Manager,Unknown LLC,936,12,110805,16,0,0,On-site,0
+Marketing Specialist,Google,299,2,155103,67,0,0,On-site,1
+Online Survey Agent,Freelance,295,6,25283,37,0,0,On-site,1
+Data Entry,StartupX,54,0,38482,29,1,1,Hybrid,0
+Data Entry,StartupX,646,14,188283,51,0,1,Remote,1
+Software Engineer,Freelance,716,10,174830,42,0,0,Hybrid,0
+Marketing Specialist,Tesla,940,0,197333,41,1,0,Remote,1
+Graphic Designer,Facebook,162,8,28563,78,1,1,On-site,1
+Graphic Designer,Unknown LLC,666,14,72748,63,1,1,On-site,1
+Data Entry,Amazon,855,12,53052,79,1,0,Hybrid,0
+Data Entry,Facebook,924,12,123186,8,0,1,Remote,0
+Software Engineer,Tesla,780,2,146155,40,0,0,Remote,0
+Blockchain Developer,Facebook,276,8,192380,51,0,1,Hybrid,1
+Software Engineer,Freelance,547,13,144229,84,0,1,On-site,1
+Marketing Specialist,Unknown LLC,763,0,56531,1,1,1,On-site,0
+Graphic Designer,StartupX,822,4,74216,61,1,0,On-site,0
+Data Entry,Tesla,879,7,174594,54,0,0,Hybrid,0
+Data Entry,Unknown LLC,809,13,197413,27,0,0,On-site,0
+Marketing Specialist,Google,185,12,29026,69,0,0,Hybrid,1
+Data Entry,Facebook,375,10,137749,6,0,0,Remote,0
+Software Engineer,Tesla,696,0,98415,39,0,1,Hybrid,0
+Online Survey Agent,Amazon,599,5,68438,45,0,1,Remote,0
+Blockchain Developer,Facebook,785,9,10777,40,0,1,Remote,0
+HR Manager,StartupX,494,6,185611,28,0,1,On-site,0
+HR Manager,StartupX,755,13,105224,77,1,1,Hybrid,1
+Data Entry,Freelance,123,0,76482,33,1,0,On-site,0
+HR Manager,Google,77,14,85667,5,1,0,Remote,1
+Marketing Specialist,Freelance,550,0,99556,73,1,1,Remote,1
+Graphic Designer,Tesla,541,13,156343,45,0,1,Hybrid,1
+Content Writer,Facebook,388,5,45512,13,0,0,Hybrid,1
+Software Engineer,Freelance,550,1,192763,79,0,0,Hybrid,1
+Blockchain Developer,Amazon,980,2,19591,75,0,1,On-site,0
+Marketing Specialist,Facebook,241,2,136251,69,1,0,On-site,0
+Software Engineer,Facebook,699,15,159575,8,1,0,Remote,1
+HR Manager,Facebook,169,11,197086,7,1,0,Hybrid,0
+Marketing Specialist,Amazon,338,15,185350,49,0,0,Hybrid,1
+Online Survey Agent,StartupX,334,1,185070,53,0,1,On-site,0
+HR Manager,Unknown LLC,397,15,129942,33,1,0,Remote,0
+Graphic Designer,Unknown LLC,317,7,30176,12,0,0,Hybrid,0
+Data Entry,StartupX,263,4,176715,9,0,1,Hybrid,1
+HR Manager,Amazon,402,13,115952,53,1,1,On-site,0
+Marketing Specialist,Freelance,747,0,44297,43,0,1,Remote,0
+Blockchain Developer,Google,205,7,94449,36,1,1,On-site,0
+Content Writer,StartupX,693,5,143728,25,1,0,On-site,1
+Graphic Designer,Freelance,790,11,36932,59,0,1,Remote,0
+Content Writer,Amazon,829,1,152312,13,0,1,On-site,1
+Online Survey Agent,Facebook,427,3,175335,43,1,1,Hybrid,1
+Software Engineer,Unknown LLC,41,10,102008,63,0,1,On-site,1
+Graphic Designer,Google,779,12,172968,28,0,0,Hybrid,0
+Data Entry,Google,125,6,2168,33,0,1,Remote,1
+Data Entry,StartupX,982,10,13982,81,0,1,Remote,1
+Blockchain Developer,Freelance,744,2,151801,8,1,0,On-site,1
+Content Writer,Tesla,72,8,130591,14,1,1,Remote,1
+Content Writer,Unknown LLC,179,0,7944,50,0,1,Remote,1
+HR Manager,Facebook,81,7,52926,28,1,1,On-site,0
+Blockchain Developer,Tesla,770,15,187335,53,0,0,Hybrid,1
+Online Survey Agent,Freelance,305,0,173396,24,1,0,Hybrid,1
+Blockchain Developer,Amazon,336,0,85863,77,0,0,On-site,0
+Marketing Specialist,Unknown LLC,650,0,39049,9,0,0,On-site,1
+Blockchain Developer,Amazon,709,1,97370,8,0,0,Hybrid,1
+Software Engineer,Unknown LLC,328,7,85220,28,0,1,On-site,0
+Software Engineer,Facebook,103,2,88416,6,0,0,Hybrid,1
+Online Survey Agent,Tesla,289,1,145052,57,0,1,Hybrid,0
+Software Engineer,Tesla,194,6,180593,72,1,1,Hybrid,0
+HR Manager,Unknown LLC,297,3,118582,28,0,1,Hybrid,1
+Marketing Specialist,Amazon,263,11,170019,72,1,0,On-site,0
+HR Manager,Facebook,410,15,187948,6,1,0,Hybrid,1
+Content Writer,Amazon,422,1,173967,39,0,0,On-site,0
+Graphic Designer,Facebook,658,13,74548,28,1,0,Remote,0
+Online Survey Agent,Facebook,316,10,136368,60,1,0,Remote,1
+Marketing Specialist,Freelance,210,0,60689,1,1,1,On-site,0
+Content Writer,Facebook,966,10,197742,57,1,0,Hybrid,0
+Data Entry,Tesla,290,7,86189,22,0,1,Hybrid,1
+Data Entry,Unknown LLC,833,2,37020,59,0,1,On-site,0
+Blockchain Developer,Unknown LLC,171,1,153731,69,0,0,Hybrid,1
+HR Manager,StartupX,491,3,140409,90,0,1,Remote,0
+Data Entry,Amazon,494,2,73714,73,1,1,Hybrid,0
+Software Engineer,StartupX,666,6,27730,58,1,1,On-site,0
+HR Manager,Unknown LLC,745,10,95991,14,0,0,On-site,0
+Online Survey Agent,StartupX,572,0,29192,76,0,0,On-site,0
+Online Survey Agent,Tesla,491,15,24650,68,0,1,On-site,1
+Graphic Designer,Unknown LLC,709,15,19613,38,1,0,Remote,1
+Content Writer,Facebook,242,14,34024,12,0,0,Hybrid,1
+Software Engineer,Google,144,14,160409,8,1,1,Hybrid,0
+HR Manager,Tesla,438,1,157043,24,1,0,Remote,0
+HR Manager,Unknown LLC,735,1,66646,65,1,1,Hybrid,0
+Graphic Designer,Amazon,185,1,52726,80,0,0,On-site,0
+Content Writer,Tesla,808,14,67970,66,1,1,On-site,1
+Content Writer,Unknown LLC,51,1,50052,61,1,1,Hybrid,1
+Online Survey Agent,StartupX,572,5,26869,46,1,0,Remote,0
+Graphic Designer,Google,104,3,25070,55,1,0,On-site,0
+Data Entry,Freelance,575,7,28299,66,1,1,On-site,0
+Online Survey Agent,Freelance,944,11,143907,42,1,1,Remote,0
+Software Engineer,Amazon,314,5,52312,44,1,1,Hybrid,1
+Marketing Specialist,Unknown LLC,815,7,126177,79,1,0,Hybrid,0
+Software Engineer,StartupX,696,2,114513,22,0,1,On-site,0
+Online Survey Agent,Tesla,46,1,38908,42,0,1,On-site,1
+Blockchain Developer,Unknown LLC,217,11,84361,54,1,0,Remote,0
+Data Entry,Unknown LLC,987,14,172144,57,0,0,Hybrid,1
+Blockchain Developer,Google,96,4,17917,48,1,1,Remote,0
+Content Writer,StartupX,869,4,121769,19,0,0,Hybrid,0
+Content Writer,Google,412,2,3923,86,0,0,Remote,0
+Marketing Specialist,Unknown LLC,198,10,15521,67,1,0,Remote,0
+Online Survey Agent,Facebook,611,5,19112,55,0,1,Hybrid,0
+Blockchain Developer,StartupX,237,12,81107,37,0,1,Hybrid,0
+Graphic Designer,Unknown LLC,595,0,57894,58,1,0,On-site,0
+Marketing Specialist,Google,500,11,84499,59,1,0,Remote,0
+HR Manager,Unknown LLC,857,6,65187,7,0,0,On-site,1
+HR Manager,Tesla,948,0,129836,27,0,0,On-site,0
+Content Writer,Freelance,570,4,163651,10,1,1,Remote,0
+Content Writer,Facebook,274,12,182808,37,0,0,Hybrid,1
+Marketing Specialist,Tesla,430,12,29116,65,0,0,Hybrid,1
+HR Manager,Unknown LLC,818,13,140612,77,1,0,Remote,0
+Blockchain Developer,Tesla,212,15,50684,81,0,0,On-site,0
+Data Entry,StartupX,35,11,82860,14,0,0,On-site,0
+Content Writer,Tesla,646,4,175201,1,0,1,Hybrid,1
+HR Manager,Tesla,746,8,40668,20,0,1,Remote,0
+Online Survey Agent,StartupX,357,14,70424,75,1,0,Remote,1
+Content Writer,Google,996,13,7319,16,0,1,Remote,1
+HR Manager,Unknown LLC,278,10,129453,63,1,0,On-site,1
+Graphic Designer,Unknown LLC,926,9,65731,44,0,1,On-site,1
+Online Survey Agent,Amazon,820,3,58778,36,1,0,On-site,0
+HR Manager,Tesla,147,11,169018,87,1,1,Remote,1
+Blockchain Developer,Freelance,743,5,145811,47,0,0,Remote,1
+HR Manager,Freelance,253,5,7468,35,1,1,Remote,0
+Online Survey Agent,StartupX,894,2,169353,13,1,0,Remote,0
+Graphic Designer,StartupX,102,14,61172,47,1,1,Hybrid,1
+Data Entry,Google,942,0,19656,40,1,0,Remote,0
+HR Manager,Amazon,664,10,153854,6,0,0,On-site,1
+Blockchain Developer,StartupX,837,5,5366,39,1,0,Hybrid,0
+Content Writer,StartupX,111,7,103650,30,1,1,On-site,0
+Blockchain Developer,Google,467,7,148827,73,1,0,Remote,1
+Software Engineer,Freelance,42,13,110197,25,0,0,Remote,1
+Blockchain Developer,Unknown LLC,428,5,156936,17,0,0,Remote,1
+Graphic Designer,Tesla,377,9,41052,20,1,0,Hybrid,1
+HR Manager,Unknown LLC,963,4,110248,71,0,0,On-site,0
+Software Engineer,Tesla,907,14,180696,11,0,0,Remote,0
+Marketing Specialist,Google,167,13,516,6,0,0,Hybrid,0
+Content Writer,Google,367,0,40420,87,1,0,On-site,1
+Software Engineer,Unknown LLC,599,15,29906,84,0,0,Remote,0
+Blockchain Developer,StartupX,266,1,182965,9,0,0,On-site,0
+Marketing Specialist,Amazon,163,11,107438,58,1,1,Remote,1
+Blockchain Developer,Tesla,615,8,5024,73,1,0,On-site,0
+Online Survey Agent,Google,120,0,137349,48,0,1,Hybrid,0
+Blockchain Developer,Freelance,198,15,183430,64,1,1,Hybrid,1
+Data Entry,Amazon,913,4,55220,7,0,0,Remote,0
+Online Survey Agent,Freelance,64,5,141459,23,0,1,Remote,1
+Data Entry,Google,653,4,188668,39,0,1,On-site,0
+Software Engineer,Tesla,729,4,165768,80,1,0,Hybrid,1
+Software Engineer,Google,930,2,187387,15,1,1,On-site,0
+Marketing Specialist,StartupX,96,6,175473,38,0,1,On-site,0
